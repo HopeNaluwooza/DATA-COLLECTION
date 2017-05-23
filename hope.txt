@@ -1,0 +1,58 @@
+ 
+ \documentclass[options]{article}
+ \usepackage[pdftex]{graphicx}
+ 
+
+\begin{document}
+\textbf{A REPORT ON DATA COLLECTION }
+
+
+
+          \textbf{NALUWOOZA HOPE 214007688 14/U/11759/EVE}
+              
+
+\section{\textbf{Introduction}}
+The data collection was about discovering the challenges bill deliverers face when distributing the bills, and how best these challenges can be solved.
+\subsection{\textbf{what the form is about}}
+The form basically included the details the person I was interviewing, the area in which he /she works. The problems the deliverers face and what they believe are the possible solutions to the challenges they face.
+
+
+\subsubsection{\textbf{Aims/ objectives}}
+\begin{itemize}
+      \item To find out the challenges bill deliverers face when distributing bills.
+      \item To get solutions to the challenges bill deliverers face.
+      \item To find out why bills are not effectively delivered to the customers.
+      \item To increase on umeme revenue.
+     
+  \end{itemize} 
+
+\subsection{\textbf{problems faced when collecting data}}
+\begin{itemize}
+      \item Some respondents were not willing to cooperate.
+      \item The rain hindered me from reaching certain areas to interview the bill deliverers therefore my interviews were limited to specific places.
+      \item Few of the bill deliverers were not understanding the language in which I was interviewing them
+      \item some responds were not welcoming and were not willing to cooperate with the interview.
+
+  \end{itemize} 
+
+\section{\textbf{Research methodology  }}
+When collecting data I used odk collect and aggregate server to create a form which I used to interview the bill deliverers.
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth]{../screenshots/Screenshot_20170521-214947}
+	\caption{}
+	\label{fig:screenshot20170521-214947}
+\end{figure}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.7\linewidth, height=0.7\textheight]{../nalu}
+	\caption{}
+	\label{fig:nalu}
+\end{figure}
+
+	
+ \subsection{\textbf{Recommendations  }}
+The bill deliverers should be provided with enough and effective transport means such as motorcycles such that they can access remote areas were they can’t reach on foot. 
+
+
+\end{document}
